@@ -16,4 +16,4 @@ The project follows the CRISP-DM framework and applies regression models to pred
 - neural networks
 
 ## Full analysis
-See `report.html` for the complete analysis and results (in Polish)
+See `VIDEO_GAMES.html` for the complete analysis and results (in Polish)
